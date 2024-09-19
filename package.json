@@ -9,11 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ai-sdk/openai": "^0.0.60",
+    "@ai-sdk/react": "^0.0.59",
     "@nextui-org/react": "^2.4.8",
+    "@nlux/react": "^2.17.1",
+    "@nlux/themes": "^2.17.1",
+    "ai": "^3.3.43",
     "framer-motion": "^11.5.5",
     "next": "14.2.12",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/node": "^20",
